@@ -153,4 +153,3 @@ Circuit Id: Connector-46
 <item Show_id="false" pointList="-116,-196,-116,-236,280,-236" labelrot="0" boardPos="-1e+06,-1e+06" itemtype="Connector" valLabelx="0" circRot="0" labelx="-16" x="-116" hflip="1" vflip="1" enodeid="Circ_eNode-41" valLabRot="0" valLabely="0" circPos="0,0" labely="-24" startpinid="Node-1-1" objectName="Connector-49" id="Connector-46" rotation="0" y="-196" endpinid="Oscope-4-Pin0" mainComp="false" boardRot="-1000000"/>
  
 </circuit>
-
