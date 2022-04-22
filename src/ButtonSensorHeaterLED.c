@@ -26,6 +26,3 @@ SET_HEATER_AS_INPUT; //clear bit 7 of DDR B
 PULLUP_HEATER;//Set bit 7 of DDR B
 
 }
-
-
-
